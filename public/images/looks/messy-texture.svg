@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-labelledby="title desc">
+  <title id="title">Messy Texture placeholder</title>
+  <desc id="desc">Neutral editorial placeholder for a finished messy texture hairstyle image.</desc>
+  <rect width="900" height="1125" fill="#dedbd3"/>
+  <rect x="84" y="96" width="732" height="933" fill="none" stroke="#0b0b0b" stroke-opacity=".16"/>
+  <path d="M242 502c18-103 92-203 212-211 99-7 201 44 231 142 40 132-42 277-184 300-139 23-286-55-259-231Z" fill="#0b0b0b" fill-opacity=".14"/>
+  <path d="M306 401c56-60 137-89 221-62 65 21 103 68 122 128-51-31-103-27-154-1-74 38-146 29-189-65Z" fill="#0b0b0b" fill-opacity=".22"/>
+  <path d="M281 528c51-20 93-18 126 5 47 32 93 33 154 1 38-20 74-24 108-11" fill="none" stroke="#0b0b0b" stroke-opacity=".20" stroke-width="12" stroke-linecap="round"/>
+  <text x="84" y="1025" fill="#0b0b0b" fill-opacity=".50" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="4">MESSY TEXTURE</text>
+</svg>

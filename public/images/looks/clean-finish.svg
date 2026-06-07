@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-labelledby="title desc">
+  <title id="title">Clean Finish placeholder</title>
+  <desc id="desc">Neutral editorial placeholder for a finished clean hairstyle image.</desc>
+  <rect width="900" height="1125" fill="#f4f1eb"/>
+  <rect x="84" y="96" width="732" height="933" fill="none" stroke="#0b0b0b" stroke-opacity=".16"/>
+  <path d="M260 522c18-125 112-213 238-211 116 2 193 79 202 188 11 135-73 241-206 255-150 16-275-78-234-232Z" fill="#0b0b0b" fill-opacity=".12"/>
+  <path d="M294 440c80-105 246-102 348-21-47 13-85 31-126 48-78 33-148 28-222-27Z" fill="#0b0b0b" fill-opacity=".22"/>
+  <path d="M313 606c89 36 183 31 282-15" fill="none" stroke="#0b0b0b" stroke-opacity=".22" stroke-width="11" stroke-linecap="round"/>
+  <text x="84" y="1025" fill="#0b0b0b" fill-opacity=".50" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="4">CLEAN FINISH</text>
+</svg>

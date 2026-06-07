@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Product testing workspace placeholder">
+  <rect width="1200" height="900" fill="#0b0b0b"/>
+  <rect x="120" y="170" width="260" height="520" fill="#f5f3ef" opacity="0.88"/>
+  <rect x="450" y="245" width="150" height="380" fill="#c9c0b4"/>
+  <rect x="690" y="130" width="260" height="560" fill="#f5f3ef" opacity="0.78"/>
+  <path d="M110 725h980" stroke="#f5f3ef" stroke-width="2" opacity="0.45"/>
+  <text x="60" y="820" fill="#f5f3ef" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="4">STORY TESTING</text>
+</svg>

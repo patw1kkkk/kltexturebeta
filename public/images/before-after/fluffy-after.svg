@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 825" role="img" aria-label="After styling placeholder">
+  <rect width="1200" height="825" fill="#0b0b0b"/>
+  <g fill="none" stroke="#efe9df" stroke-linecap="round">
+    <path d="M230 550c190-330 445-375 720-70" stroke-width="64"/>
+    <path d="M310 445c155-150 340-165 520-25" stroke-width="28" opacity="0.8"/>
+  </g>
+  <text x="60" y="760" fill="#f5f3ef" font-family="Inter,Arial,sans-serif" font-size="26" font-weight="700" letter-spacing="5">MUOTOILTUNA</text>
+</svg>

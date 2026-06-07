@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 825" role="img" aria-label="Before styling placeholder">
+  <rect width="1200" height="825" fill="#cfc7bb"/>
+  <path d="M290 520c170-105 390-105 560 0" fill="none" stroke="#0b0b0b" stroke-width="70" stroke-linecap="round" opacity="0.8"/>
+  <text x="60" y="760" fill="#0b0b0b" font-family="Inter,Arial,sans-serif" font-size="26" font-weight="700" letter-spacing="5">ENNEN</text>
+</svg>

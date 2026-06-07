@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Finished hairstyle close-up placeholder">
+  <rect width="1200" height="900" fill="#0b0b0b"/>
+  <g fill="none" stroke="#efe9df" stroke-linecap="round" opacity="0.8">
+    <path d="M160 620c230-380 520-420 850-115" stroke-width="42"/>
+    <path d="M235 420c220-230 470-260 720-35" stroke-width="28"/>
+    <path d="M300 720c190-145 420-150 620-10" stroke-width="20"/>
+  </g>
+  <text x="60" y="820" fill="#f5f3ef" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="4">FINISHED LOOK</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-labelledby="title desc">
+  <title id="title">Natural Volume placeholder</title>
+  <desc id="desc">Neutral editorial placeholder for a finished natural volume hairstyle image.</desc>
+  <rect width="900" height="1125" fill="#d9d1c5"/>
+  <rect x="84" y="96" width="732" height="933" fill="none" stroke="#0b0b0b" stroke-opacity=".16"/>
+  <path d="M246 513c22-151 136-249 283-218 101 22 166 104 168 202 3 133-91 233-225 241-147 9-262-84-226-225Z" fill="#0b0b0b" fill-opacity=".13"/>
+  <path d="M297 423c37-89 119-146 221-130 83 13 137 70 163 151-63-51-131-54-204-19-64 31-124 30-180-2Z" fill="#0b0b0b" fill-opacity=".21"/>
+  <path d="M310 505c64-52 131-57 201-17 46 26 95 21 147-14" fill="none" stroke="#0b0b0b" stroke-opacity=".20" stroke-width="12" stroke-linecap="round"/>
+  <text x="84" y="1025" fill="#0b0b0b" fill-opacity=".50" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="4">NATURAL VOLUME</text>
+</svg>

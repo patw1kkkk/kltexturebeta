@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-labelledby="title desc">
+  <title id="title">Fluffy Hair placeholder</title>
+  <desc id="desc">Neutral editorial placeholder for a finished fluffy hairstyle image.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#efe9df"/>
+      <stop offset="1" stop-color="#cfc5b5"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1125" fill="url(#bg)"/>
+  <rect x="84" y="96" width="732" height="933" fill="none" stroke="#0b0b0b" stroke-opacity=".16"/>
+  <path d="M262 526c22-142 119-235 253-226 112 7 183 86 190 190 9 135-75 246-205 263-153 20-283-76-238-227Z" fill="#0b0b0b" fill-opacity=".13"/>
+  <path d="M298 423c53-91 158-137 258-96 75 31 116 109 99 181-22 95-122 137-223 115-83-18-155-85-134-200Z" fill="#0b0b0b" fill-opacity=".20"/>
+  <path d="M316 697c70 92 237 111 352 11" fill="none" stroke="#0b0b0b" stroke-opacity=".22" stroke-width="10" stroke-linecap="round"/>
+  <text x="84" y="1025" fill="#0b0b0b" fill-opacity=".50" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="4">FLUFFY HAIR</text>
+</svg>

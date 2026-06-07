@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Barber working with client's hair placeholder">
+  <rect width="1200" height="900" fill="#d8d0c4"/>
+  <rect x="655" y="170" width="210" height="520" rx="12" fill="#0b0b0b"/>
+  <circle cx="445" cy="300" r="125" fill="#0b0b0b" opacity="0.82"/>
+  <path d="M245 705c120-220 360-275 565-105" fill="none" stroke="#f5f3ef" stroke-width="30"/>
+  <text x="60" y="820" fill="#0b0b0b" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="4">STORY CHAIR</text>
+</svg>

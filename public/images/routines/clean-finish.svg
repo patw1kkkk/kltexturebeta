@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-label="Clean Finish routine placeholder">
+  <rect width="900" height="1100" fill="#d8d0c4"/>
+  <path d="M150 575c240-180 455-160 660 55" fill="none" stroke="#0b0b0b" stroke-width="42" stroke-linecap="round"/>
+  <path d="M160 670h560" stroke="#f5f3ef" stroke-width="26" stroke-linecap="round"/>
+  <text x="52" y="1010" fill="#0b0b0b" font-family="Inter,Arial,sans-serif" font-size="30" font-weight="700" letter-spacing="4">CLEAN FINISH</text>
+</svg>

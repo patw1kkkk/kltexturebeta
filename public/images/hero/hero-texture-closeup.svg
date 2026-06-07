@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1000" role="img" aria-label="Hair texture close-up placeholder">
+  <rect width="1400" height="1000" fill="#0b0b0b"/>
+  <g fill="none" stroke="#d8d0c4" stroke-linecap="round" opacity="0.72">
+    <path d="M120 720C300 330 500 260 720 650s400 120 560-260" stroke-width="46"/>
+    <path d="M30 520C260 150 530 230 650 575s470 250 650-75" stroke-width="28"/>
+    <path d="M190 870C380 550 555 520 780 790s280 75 360-110" stroke-width="22"/>
+    <path d="M310 310C520 80 735 110 940 330s280 150 360 15" stroke-width="18"/>
+  </g>
+  <text x="70" y="900" fill="#f5f3ef" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="5">TEXTURE CLOSE-UP PLACEHOLDER</text>
+</svg>
